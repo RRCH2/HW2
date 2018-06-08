@@ -1,17 +1,1 @@
- Volume in drive C is SYSTEM
- Volume Serial Number is 4A2A-C8D6
-
- Directory of C:\Users\IBM_ADMIN\eclipse-workspace\HelloWorldProject
-
-06/08/2018  07:12 PM    <DIR>          .
-06/08/2018  07:12 PM    <DIR>          ..
-06/08/2018  05:42 PM               301 .classpath
-06/08/2018  05:42 PM               393 .project
-06/08/2018  05:42 PM    <DIR>          .settings
-06/08/2018  05:43 PM    <DIR>          bin
-06/08/2018  05:43 PM    <DIR>          src
-06/08/2018  07:12 PM                 0 test1.txt
-               3 File(s)            694 bytes
-               5 Dir(s)   1,955,618,816 bytes free
-
-			   change1
+sample program pushing into git
